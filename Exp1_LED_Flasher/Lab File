@@ -2,4 +2,45 @@ Circuit Diagram:
 To view the circuit, visit the link:
 https://drive.google.com/file/d/1fzLnro8A8cHphyHPRkAdVcTbn00dHNEz/view?usp=sharing
 
+Theory:
+Concept Used:In LED current can only flow in one direction.Positive side of LED is called anode and negative side is called cathod.Current
+can only flow from anode to cathode and never opposite. More the current flowing through the LED more will be it's brightness.Always a 
+resistor is used while connecting LED to the circuit because if you will connect LED directly to the power supply it will get destroyed.
+LED's can be connected in series to increase light power.As with resistor connected in series all LED's will have samed forward current.
+
+Learning and Observations:
+
+1.LED's should not be connected directly to power supply as it will get burn't due to high power.
+2.Let us suppose that there are 5 LED's are connected in series with 7.4 volt logic supply with a forward current of 20mA.Then the
+ voltage drop can be calculated as:
+V(led)=5*1.2=6 Volts
+R(s)=V(s)-V(led)=7.4-6=1.4 volt
+ Therefore, R(s)=1.4/20=70 ohm
+ 
+ 
+ Problems and Troubleshotting:
+ 
+ 1.Connections were not perfect so after connecting always ensure that the connections are tight.
+ 2.Sometimes we were not able to uplod the program, for this always ensure:
+   2a. You have selected the correct port.
+   2b.If then also if you are not able to uplod the program, open new project.
+3. Sometimes we faced some problems while writing code for the project so for this we took help from our subject teacher.
+
+
+Precautions:
+
+1. Always ensure that connections are connected properly.
+2. Don't connect LED directly with powewr supply as it will burn out.
+3. Always be attentive in the class while the teacher is explaining you the project so that oyu need not to face many problems while
+performing the project.
+
+Learning Outcomes:
+
+1. In LED current only flows in one direction.
+2. Through ardruino we can many devices which can simplify our lifes.
+
+Skill Learned:
+Got a chance to know about the new topic ardruino through which can can be verey useful to humans. Also I learned how to code in
+ardruino and how to make proper connections.
+
 
