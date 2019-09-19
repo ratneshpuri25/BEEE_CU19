@@ -1,3 +1,31 @@
 Circuit Diagram:
 To view the circuit, view the link below:
 https://drive.google.com/file/d/1PXvLddh3H6YSmD6a8ECb1UEIIybTTfyF/view?usp=sharing
+
+Theory:
+Concept Used:
+Here we have use Kirchoff's voltage law and Kirchoff's current law. Also we have learnt how to make  series and parallel conncection in
+bredboard.
+
+Learning Observations:
+We have learn't how to make series and parallel connection in bredboard and wiring.
+Also got to know how to control ardruino and it's codings.
+
+Observations:
+We observed the synchronise between softwared and hardware. 
+Also observed the led blinking pattern and in cahsing from.
+
+Problems and Troubleshotting:
+We have to select the right port and the type of arduino.
+We have to make all connections toght if any connections will be left loose the circuit will not  completed.
+We should also check connections according to code.
+We shuld also check contuinity of circuit and flow of current in the circuit.
+
+Precautions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is not complete.
+Also choose the right port and right arduino.
+
+Outcomes:
+LED's are glowing in chasing pattern.
+This pattern can be used for decoration in marriges nadd many other functions.
