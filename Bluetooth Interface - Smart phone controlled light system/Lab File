@@ -2,4 +2,25 @@ Circuit Diagram:
 To view circuit diagram:https://photos.app.goo.gl/nLNytwWQjGYVMKpu7
 
 Theory:
-Concept Used:
+Concept Used:The Bluetooth will work with an Arduino board through the serial communication.
+The data is received to the Arduino with the HC-05 Bluetooth module through the serial communication and the LED's will turn
+ON/OFF according to the receiving data.
+
+Learninig Observations:
+We observed the synchronous between hardware and software.
+LED turns ON when on pressong on and turns OFF when pressed sand it's controlled using smart phonr.
+
+Problems and Trouble shotting:
+We have to select the right port and the type of arduino.
+We have to make all connections tight.
+We have to make connections according to the code.
+We should calso check teh contuinity of the circuit and the flow of the current.
+
+Preacutions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is complete.
+Also choose the right port and the right arduino.
+
+Result:
+LED is turned ON and OFF using smart phone.
+
