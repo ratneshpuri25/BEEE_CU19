@@ -6,7 +6,10 @@ Concept Used:The Bluetooth will work with an Arduino board through the serial co
 The data is received to the Arduino with the HC-05 Bluetooth module through the serial communication and the LED's will turn
 ON/OFF according to the receiving data.
 
-Learninig Observations:
+Learning Observations:
+We got to know how bluetooth works.
+We also learned how we can connect bluetooth throgh our mobile and can control blinking of LED.
+Observations:
 We observed the synchronous between hardware and software.
 LED turns ON when on pressong on and turns OFF when pressed sand it's controlled using smart phonr.
 
