@@ -1,0 +1,34 @@
+Circuit Diagram:
+To view circcuit diagram click here:
+
+https://photos.app.goo.gl/Ri62Y1oKG9rnRxha6
+
+
+
+Theory:
+
+Concept Used:
+An Ultrasonic Sensor is a device that measures distance to an object using Sound Waves. It works by sending out a sound wave at ultrasonic
+frequency and waits for it to bounce back from the object.
+
+Learning Observations:
+We learned conccept about the ultrasonic sensors.
+We also learned it's practical uses in the real world.
+
+Observations:
+We observed the synchronous between hardware and software.
+Also observed how sensor behaves when it senses any obstacle in it's path.
+
+Problems and Trouble shotting:
+We have to select the right port and the type of arduino.
+We have to make all connections tight.
+We have to make connections according to the code.
+We should calso check teh contuinity of the circuit and the flow of the current.
+
+Preacutions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is complete.
+Also choose the right port and the right arduino.
+
+Result:
+Programmable Ultrasonic Sensor Interface  system was verified after uploading the program.
