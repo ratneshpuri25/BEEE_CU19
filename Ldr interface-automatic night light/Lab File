@@ -1,0 +1,27 @@
+Circuit Diagram:
+To view circuit diagram:https://photos.app.goo.gl/roLS5jvkjXAc3TZi6
+
+Theory:
+Conecept Used:It senses the light from the surroundings and finds whether it's day or night.
+It turns ON the light when it's darrk felse it's OFF.
+
+Learning Objective:
+We have to learn about the concept of LDR and how to use it in real life.
+
+Observations:
+We observed the synchronous between hardware and software.
+We also observed that when it's dark the LED automatically turns ON and when it's daylight it remains OFF.
+
+Problems and Trouble shotting:
+We have to select the right port and the type of arduino.
+We have to make all connections tight.
+We have to make connections according to the code.
+We should calso check teh contuinity of the circuit and the flow of the current.
+
+Preacutions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is complete.
+Also choose the right port and the right arduino.
+
+Result:
+Automatic night lamp functioning was verified after uploading the program.
