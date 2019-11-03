@@ -1,0 +1,75 @@
+THE DIGITAL MULTIMETER 
+
+The goal of these laboratory experiences is for us to become familiar with the Digital Multimeter to measure Resistance, Voltage and 
+Current.Besides, we will become familiar with the solder-less breadboard used for prototyping.
+1.- Digital Multimeter as an Ohmmeter: Measure Resistance
+
+
+
+To view diagram of Multimeter cilck on the link below:
+https://photos.app.goo.gl/cbkNrUyLYbRjTrvy7
+
+
+
+ 
+
+
+
+ The central the rotary knob is used to select the variable to
+measure: Ohms, AC Volts, DC Volts, AC Amperes, DC Amperes, Temperature, and Gain of Transistors, among other variables. 
+
+Procedure for Measuring Resistance:
+The central the rotary knob is employed to pick the variable to
+measure: Ohms, AC Volts, DC Volts, AC Amperes, DC Amperes, Temperature, and Gain of Transistors, among alternative variables.
+
+Procedure for activity Resistance:
+1a.- make sure that the ability within the circuit  is OFF.
+Ohmmeter applies external current. It will act with the ability within the circuit and injure it. or
+1b.- Remove the component from the circuit
+2.- Connect Black lead to COM
+3.- Connect Red lead to the terminal with symbol Ω
+4.- Move Rotary selector to Ω
+5.- Value of display is Resistance
+6.- If the display shows “OL”: Overload. Select a higher range
+
+Procedure for Measuring Voltage:
+1.Turn the dial to ṽ. If voltage in the circuit is unknown, set the range to the highest voltage setting and set the dial on ṽ.
+2.First insert the black lead into the COM jack.
+3.Next insert the red lead into the VΩ jack. When finished, remove the leads in reverse order: red first, then black.
+4.Connect the test leads to the circuit: black lead first, red second.Note: ac voltage does not have polarity.
+Read the measurement in the display. When finished, remove the red lead first, black second.
+
+Procedure for Measuring Current:
+1.	Turn the meter on
+2.	Insert the probes into the correct connections.
+3.	Set main selector switch on the meter switch to the current and range for the measurement to be made. When selecting the range, 
+ensure that the maximum range is above the expected reading anticipated. 
+4.	Connect the test leads to the circuit: black lead first, red second.
+Read the measurement in the display. When finished, remove the red lead first, black second.
+
+
+
+
+
+BREADBOARD
+
+
+
+To view the diagram of breadboard click on the link below:
+https://photos.app.goo.gl/mwjryKo85caDkNjEA
+
+ 
+
+
+
+Each pin is interconnected to alternative pins as shown in some breadboards, the correct and left facet of the horizontal pins of rows 
+don't seem to be connected to the horizontal lines square measure generally reserved for power provide voltages, grounds,  The vertical
+lines square measure generally used for interconnecting parts.
+For those new to circuits, breadboards are simplest place to begin. That's the  great thing about breadboards-they can house both the 
+simplest circuit as well as very complex circuits. If ourcircuit outgrows its current bread board, others is be hooked up to accommodate
+circuits of all sizes and complexities.
+Another common use of breadboards is testing out new components, like Integrated circuits (ICs). once you are attempting to work out
+however a part works and perpetually rewiring things, you don’t wish to own to solder your connections everytime. For this breadboards
+
+are best suited as they need not be soldered and we can break the connection whenever we want.
+
