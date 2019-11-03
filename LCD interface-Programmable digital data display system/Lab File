@@ -1,0 +1,26 @@
+Circuit Diagram:
+To view circuit diagram click on the link below:
+https://photos.app.goo.gl/qV5PJXQHXoajXQUo6
+
+Theory:
+Concept Used:
+
+Learning Observations:
+We observed the synchronous between hardware and software.
+We have learned how to display anything in LED with the help of arduino.
+
+Problems and Trouble shotting:
+We have to select the right port and the type of arduino.
+We have to make all connections tight.
+We have to make connections according to the code.
+We should calso check the contuinity of the circuit and the flow of the current.
+
+Preacutions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is complete.
+Also choose the right port and the right arduino.
+
+Result:
+Programmable Digital Data Display system was verified after uploading the program.
+
+
