@@ -1,14 +1,29 @@
-void setup(){
-pinMode(7,OUTPUT);
-pinMode(13,INPUT);
+const int switchPin = 2; 
+const int bellPin = 7; 
+int bellState = LOW; 
+int switchState=LOW;
+int lastswitchState = LOW; 
+unsigned long lastDebounceTime = 0;
+unsigned long debounceDelay = 10;
+void setup() {
+pinMode(switchPin, INPUT);
+pinMode(bellPin, OUTPUT);
+digitalWrite(bellPin, bellState); 
+void loop() {
+int reading = digitalRead(switchPin);
+if (reading != lastswitchState) {
+lastDebounceTime = millis();
 }
-void loop(){
-if(digiftalRead(13)==HIGH)
-{
-digitalWrite(7,HIGH);
+if ((millis() - lastDebounceTime) > debounceDelay) {
+if (reading != switchState) {
+switchState = reading;
+
+if (switchState == HIGH) {
+bellState = !bellState;
 }
-else
-{
-digitalWrite(7,LOW);
 }
+}
+digitalWrite(bellPin, bellState);
+lastswitchState:
+lastswitchState = reading;
 }
