@@ -5,5 +5,26 @@ https://photos.app.goo.gl/hFPMdzYJPNF1nVzA6
 
 
 Theory:
-Concept Used:
+Concept Used:Whenever the switch is pressed teh bell rings.
+
+Learning Objectives:
+We learnes how to ring a door bell using arduino.
+
+Observations:
+We observed the synchronous between hardware and software.
+Also observed the ringing of bell when pressed the switch.
+
+Problems and Trouble shotting:
+We have to select the right port and the type of arduino.
+We have to make all connections tight.
+We have to make connections according to the code.
+We should calso check teh contuinity of the circuit and the flow of the current.
+
+Preacutions:
+All tools should be handeled carefully.
+Never connect arduino till the circuit is complete.
+Also choose the right port and the right arduino.
+
+Outcomes:
+Bell is ringing when the switch is pressed.
 
