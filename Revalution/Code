@@ -1,0 +1,68 @@
+void setup(){
+Serial.begin(9600);
+pinMode(7,OUTPUT);
+pinMode(6,OUTPUT);
+pinMode(5,OUTPUT);
+pinMode(4,OUTPUT);
+pinMode(3,OUTPUT);
+}
+
+void(loop){
+int d=analogRead(A0);
+int e=analogRead(A1);
+int f=analogRead(A2);
+int g=analogRead(A3);
+int h=analogRead(A4);
+
+if(d>500)
+{
+  digitalWrite(7,HIGH);
+}
+else
+{
+   digitalWrite(7,LOW);
+}   
+
+
+if(e>500)
+{
+  digitalWrite(7,HIGH);
+}
+else
+{
+   digitalWrite(7,LOW);
+}   
+
+
+if(f>500)
+{
+  digitalWrite(7,HIGH);
+}
+else
+{
+   digitalWrite(7,LOW);
+}   
+
+
+
+if(g>500)
+{
+  digitalWrite(7,HIGH);
+}
+else
+{
+   digitalWrite(7,LOW);
+}   
+
+
+
+if(h>500)
+{
+  digitalWrite(7,HIGH);
+}
+else
+{
+   digitalWrite(7,LOW);
+}   
+
+}
